@@ -4,4 +4,4 @@ Note: I did not create the original WAD for "The Pirate Channel", and if anyone 
 
 Here is a modification of "The Pirate Channel" WAD (a Homebrew Channel forwarder for the Wii) which has looping music! 
 
-![The Pirate Channel](https://github.com/ThomasAlban/PirateChannelLooping/PirateChannelImage.png)
+![The Pirate Channel](https://github.com/ThomasAlban/PirateChannelLooping/PirateChannelImage.png?raw=true)
